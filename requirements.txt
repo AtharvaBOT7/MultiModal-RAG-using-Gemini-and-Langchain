@@ -1,0 +1,12 @@
+langchain
+langchain-google-genai
+faiss-cpu
+pypdf
+docarray
+Pillow
+matplotlib
+requests
+ipython
+google-generativeai
+langchain-core
+langchain-community
