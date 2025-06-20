@@ -11,3 +11,4 @@ google-generativeai
 langchain-core
 langchain-community
 load_dotenv
+genai
